@@ -19,3 +19,8 @@ About Us
 Technologies Used
 Frontend: HTML, CSS, JavaScript, React.js
 Bootstrap
+
+
+Screen Shots
+![image](https://github.com/Alphy2194/Travel-Website/assets/125347179/3c43c194-6341-4032-90fa-5a9d47a61b1f)
+![image](https://github.com/Alphy2194/Travel-Website/assets/125347179/198950b7-e937-4cf5-a915-5e379cc515bf)
